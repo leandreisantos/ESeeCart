@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+<!--        <item-->
+<!--            android:id="@+id/nav_home"-->
+<!--            android:title="Home"-->
+<!--            android:icon="@drawable/home_icon"/>-->
+<!--        <item-->
+<!--            android:id="@+id/nav_chatbot"-->
+<!--            android:title="Chat Bot"-->
+<!--            android:icon="@drawable/chatbot_icon"/>-->
+<!--        <item-->
+<!--            android:id="@+id/nav_budget"-->
+<!--            android:title="Budget Tracker"-->
+<!--            android:icon="@drawable/budget_icon"/>-->
+<!--        <item-->
+<!--            android:id="@+id/nav_emotion"-->
+<!--            android:title="Emotion advice"-->
+<!--            android:icon="@drawable/emotion_icon"-->
+<!--          />-->
+    </group>
+
+    <item android:title=""
+        >
+        <menu>
+<!--            <group-->
+<!--                android:checkableBehavior="single">-->
+<!--                <item-->
+<!--                    android:id="@+id/add_event"-->
+<!--                    android:title="Create Schedule"-->
+<!--                    android:icon="@drawable/calendar_icon"/>-->
+<!--                <item-->
+<!--                    android:id="@+id/add_j"-->
+<!--                    android:title="Create Journal"-->
+<!--                    android:icon="@drawable/journal_icon"/>-->
+<!--            </group>-->
+        </menu>
+    </item>
+
+    <item android:title=""
+>
+        <menu>
+<!--            <group-->
+<!--                android:checkableBehavior="single">-->
+<!--                <item-->
+<!--                    android:id="@+id/notifications"-->
+<!--                    android:title="Notifications"-->
+<!--                    android:icon="@drawable/notifi_icon"/>-->
+<!--                <item-->
+<!--                    android:id="@+id/nav_profile"-->
+<!--                    android:title="Profile"-->
+<!--                    android:icon="@drawable/username_logo"/>-->
+<!--                <item-->
+<!--                    android:id="@+id/nav_myjournal"-->
+<!--                    android:title="My Journal"-->
+<!--                    android:icon="@drawable/journal2_icon"/>-->
+<!--                <item-->
+<!--                    android:id="@+id/nav_logout"-->
+<!--                    android:title="Logout"-->
+<!--                    android:icon="@drawable/logout_icon"/>-->
+<!--            </group>-->
+        </menu>
+    </item>
+
+
+</menu>
